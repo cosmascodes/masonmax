@@ -121,7 +121,7 @@ const Header = () => {
               >
                 <div class="font-semibold">Online Stores</div>
                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                  Connect with third-party tools that you're already using.
+                  Connect with third-party tools that you are already using.
                 </span>
               </a>
             </li>
@@ -132,7 +132,7 @@ const Header = () => {
               >
                 <div class="font-semibold">Segmentation</div>
                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                  Connect with third-party tools that you're already using.
+                  Connect with third-party tools that you are already using.
                 </span>
               </a>
             </li>
@@ -143,7 +143,7 @@ const Header = () => {
               >
                 <div class="font-semibold">Marketing CRM</div>
                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                  Connect with third-party tools that you're already using.
+                  Connect with third-party tools that you are already using.
                 </span>
               </a>
             </li>
@@ -156,7 +156,7 @@ const Header = () => {
               >
                 <div class="font-semibold">Online Stores</div>
                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                  Connect with third-party tools that you're already using.
+                  Connect with third-party tools that you are already using.
                 </span>
               </a>
             </li>
@@ -167,7 +167,7 @@ const Header = () => {
               >
                 <div class="font-semibold">Segmentation</div>
                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                  Connect with third-party tools that you're already using.
+                  Connect with third-party tools that you are already using.
                 </span>
               </a>
             </li>
@@ -178,7 +178,7 @@ const Header = () => {
               >
                 <div class="font-semibold">Marketing CRM</div>
                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                  Connect with third-party tools that you're already using.
+                  Connect with third-party tools that you are already using.
                 </span>
               </a>
             </li>

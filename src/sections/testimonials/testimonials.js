@@ -16,10 +16,10 @@ const Testimonials = () => {
           </svg>
           <blockquote>
             <p class="text-2xl font-medium text-gray-900 dark:text-white">
-              "Masonmax consistently delivers high-quality concrete blocks that
-              ensure our projects are built to last. Their reliability and
+              &ldquo;Masonmax consistently delivers high-quality concrete blocks
+              that ensure our projects are built to last. Their reliability and
               expertise make them a trusted partner in our construction
-              efforts."
+              efforts.&ldquo;
             </p>
           </blockquote>
           <figcaption class="flex items-center justify-center mt-6 space-x-3">
