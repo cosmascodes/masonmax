@@ -1,11 +1,17 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Script from "next/script";
-import Header from "./components/header";
 import Footer from "./components/footer";
 
 const inter = Inter({ subsets: ["latin"] });
+import dynamic from "next/dynamic";
 
+const Header = dynamic(
+  () => {
+    return import("./components/header");
+  },
+  { ssr: false }
+);
 export const metadata = {
   title: "Masonmax Constructions",
   description: "Building the Future, One Block at a Time.",
