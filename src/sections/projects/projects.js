@@ -1,6 +1,6 @@
 const Projects = () => {
   return (
-    <section className=" select-none">
+    <section>
       <div class="mx-auto grid max-w-screen-xl px-4 py-8 md:grid-cols-12 lg:gap-12 lg:pb-16 xl:gap-0">
         <div class="hidden md:col-span-6 md:mt-0 md:flex">
           <h1 class="mb-4 text-xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white md:max-w-2xl md:text-5xl xl:text-6xl">

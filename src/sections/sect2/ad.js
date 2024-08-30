@@ -22,7 +22,7 @@ const Sec2 = () => {
           </h1>
           <p class="mb-4 max-w-2xl text-gray-500 dark:text-gray-400 md:mb-12 md:text-lg lg:mb-5 lg:text-xl">
             Every project we work on we always use selected materials to give
-            good quality to the building, and that's what many of our customers
+            good quality to the building, and that is what many of our customers
             feel after working with us, their buildings are more sturdy and
             durable
           </p>
